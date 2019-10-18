@@ -1,0 +1,10 @@
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\bin\Debug\IndividualProject.exe.config
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\bin\Debug\IndividualProject.exe
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\bin\Debug\IndividualProject.pdb
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\bin\Debug\BCrypt.Net-Next.dll
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\bin\Debug\BCrypt.Net-Next.xml
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\obj\Debug\IndividualProject.csproj.CopyComplete
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\obj\Debug\IndividualProject.exe
+D:\BootCamp07\C#\Repos\CB7_Assignments\IndividualProject\obj\Debug\IndividualProject.pdb
